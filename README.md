@@ -5,7 +5,7 @@
 
 Start by getting JUCE in this folder:
 
-    git clone https://github.com/juce-framework/JUCE
+    git submodule update --init --recursive
 
 Also, say `brew install clang-format` on the terminal to get a great code formatting tool.
 
