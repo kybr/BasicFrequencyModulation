@@ -1,0 +1,10 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "editor.formatOnSave": true,
+    "clang-format.executable": "/opt/homebrew/opt/llvm/bin/clang-format",
+    "clang-format.style": "google",
+    "cmake.configureOnOpen": true,
+}
